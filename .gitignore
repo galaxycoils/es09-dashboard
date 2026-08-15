@@ -1,0 +1,16 @@
+node_modules/
+.pio/
+.vscode/
+.idea/
+dist/
+build/
+*.o
+*.elf
+*.bin
+.DS_Store
+*.swp
+*~
+.env
+.env.local
+.superpowers/
+*.log

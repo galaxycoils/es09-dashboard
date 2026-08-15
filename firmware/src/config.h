@@ -1,0 +1,9 @@
+#pragma once
+#define NUS_SERVICE_UUID        "6E400001-B5A3-F393-E0A9-E50E24DCCA9E"
+#define NUS_RX_CHAR_UUID        "6E400002-B5A3-F393-E0A9-E50E24DCCA9E"
+#define NUS_TX_CHAR_UUID        "6E400003-B5A3-F393-E0A9-E50E24DCCA9E"
+#define SCOOTER_NAME_FILTER     "5TH WHEEL ES09"
+#define BLE_SCAN_TIME_S         5
+#define WIFI_AP_SSID_PREFIX     "ES09-Dashboard-"
+#define WIFI_AP_PASS            "es09lite"
+#define WS_PORT                 81

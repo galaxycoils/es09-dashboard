@@ -1,0 +1,13 @@
+{
+  "description": "Example only — replace with real nRF Connect capture",
+  "rawHex": "AA550A0150...",
+  "notes": "Battery roughly 80% idle; fill after capture",
+  "expected": {
+    "batteryPercent": 80,
+    "voltageMv": 39000,
+    "speedKmh": 0,
+    "mode": "eco",
+    "locked": false,
+    "lightsOn": false
+  }
+}
